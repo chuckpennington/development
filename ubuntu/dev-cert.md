@@ -1,4 +1,4 @@
-# How to configure .NET Core dev cert
+# How to trust the .NET Core SDK dev certificate
 Install the cert utilities.
 ```
 sudo apt install libnss3-tools
